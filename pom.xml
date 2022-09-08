@@ -16,7 +16,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <lombok.version>1.18.10</lombok.version>
-        <postgres.jdbc.version>42.2.8</postgres.jdbc.version>
+        <postgres.jdbc.version>42.4.1</postgres.jdbc.version>
         <junit.version>5.5.2</junit.version>
     </properties>
 
